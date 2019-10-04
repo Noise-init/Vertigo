@@ -1,11 +1,8 @@
 {
-  "BL":[
-   ],
-   "WL":[
-    {
-      "user":"Tabaxi_Monk",
-      "rank":"owner"
-    },
+  "Blacklist":[
+    "Skid"
+  ],
+  "Whitelist":[
     {
       "user":"Backtalkers",
       "rank":"owner"
@@ -14,12 +11,16 @@
       "user":"iiPsychoFalls",
       "rank":"owner"
     },
-   ],
-   "LOGIN":[
+    {
+      "user":"Tabaxi_Monk",
+      "rank":"owner"
+    }
+  ],
+  "Accounts":[
     {
       "user":"Admin",
-      "pass":"Pass",
-      "rank":"owner"
-    },
-   ]
+      "pass":"Admin",
+      "rank":"admin"
+    }
+  ]
 }
