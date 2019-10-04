@@ -1,5 +1,25 @@
 {
   "BL":[
-    "Tabaxi_Monk"
+   ],
+   "WL":[
+    [
+      "user":"Tabaxi_Monk",
+      "rank":"owner"
+    ],
+    [
+      "user":"Backtalkers",
+      "rank":"owner"
+    ],
+    [
+      "user":"iiPsychoFalls",
+      "rank":"owner"
+    ],
+   ],
+   "LOGIN":[
+    [
+      "user":"Admin",
+      "pass":"Pass",
+      "rank":"owner"
+    ],
    ]
 }
