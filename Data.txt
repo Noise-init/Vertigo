@@ -21,6 +21,11 @@
       "user":"Admin",
       "pass":"Admin",
       "rank":"admin"
+    },
+    {
+      "user":"User",
+      "pass":"User",
+      "rank":"user"
     }
   ]
 }
